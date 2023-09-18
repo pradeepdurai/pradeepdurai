@@ -1,5 +1,12 @@
 <h1 align="center">Hi there, I'm Pradeep Duraisamy <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+  <br/>
+<a href="mailto:pradeepdurai66@gmail.com">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+</a>
+</h1>
+
+
 
 ### Summery
 As a full-stack developer hands-on experience in developing scalable applications using front-end and back-end technologies such as Angular v14+, Node.js, Express.js, Redis, MySQL, and Cassandra-DB
