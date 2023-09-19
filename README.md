@@ -6,12 +6,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </a>
 </h1>
 
-
-
-### Summary
+## Summary
 As a full-stack developer hands-on experience in developing scalable applications using front-end and back-end technologies such as Angular v14+, Node.js, Express.js, Redis, MySQL, and Cassandra-DB
-
-### Skills
+## Skills
 <img height="25" src="https://github.com/pradeepdurai/pradeepdurai/assets/55987898/f80c2a1b-96f9-49b7-9ca7-84b3ec0aa498">
 <img height="25" src="https://github.com/pradeepdurai/pradeepdurai/assets/55987898/cb0d2b97-399c-40e7-9cac-b15af65d28a0">
 <img height="25" src="https://github.com/pradeepdurai/pradeepdurai/assets/55987898/5a77c08d-2747-4cff-815f-c04136c29904">
@@ -26,8 +23,16 @@ Express.Js       ████████████████████▓
 Angular          █████████████████████▓▓░░   75.18 %
 Cassandra-DB     █████████████████████▓▓░░   75.18 %
 ```
+## Experience
 
-### Certifications
+## Personal Projects
+**JSON to Table Converter**
+- This is a free online tool that allows users to convert JSON data into a tabular format for better readability
+- Link: [JSON to Table Converter](https://jsontable.in 'Link title')
+
+
+
+## Certifications
 **Full Stack Development**<br/>
 <img height="250" src="https://github.com/pradeepdurai/pradeepdurai/blob/main/src/Images/certificate.png"><br/>
 
