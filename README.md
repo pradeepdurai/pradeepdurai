@@ -38,8 +38,11 @@ Cassandra-DB     █████████████████████
 
 
 ## Experience
-<img height="400" width="800" src="https://github.com/pradeepdurai/pradeepdurai/blob/main/src/Images/exp.png"> 
-<!-- **QBurst Technologies** | *Senior Engineer* | Feb-2022 to Present  -->
+**QBurst Technologies** <br/>
+*Senior Engineer* | Feb-2022 to Present
+
+**Appiness Interactive**<br/>
+*Backend Engineer* | Dec-2019 to feb-2021
 
 ## Personal Projects
 **JSON to Table Converter**
