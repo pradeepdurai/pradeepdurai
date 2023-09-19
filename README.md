@@ -6,9 +6,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </a>
 </h1>
 
-## Summary
-As a full-stack developer hands-on experience in developing scalable applications using front-end and back-end technologies such as Angular v14+, Node.js, Express.js, Redis, MySQL, and Cassandra-DB
-## Skills 
+## About Me
+As a full-stack developer hands-on experience in developing scalable applications using front-end and back-end technologies such as Angular, Node.js, Express.js, Redis, MySQL, and Cassandra-DB
+
+## Tech Stack
 
 
 
