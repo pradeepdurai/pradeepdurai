@@ -23,7 +23,11 @@ Express.Js       ████████████████████▓
 Angular          █████████████████████▓▓░░   75.18 %
 Cassandra-DB     █████████████████████▓▓░░   75.18 %
 ```
+
+
 ## Experience
+<img height="400" width="800" src="https://github.com/pradeepdurai/pradeepdurai/blob/main/src/Images/exp.png"> 
+<!-- **QBurst Technologies** | *Senior Engineer* | Feb-2022 to Present  -->
 
 ## Personal Projects
 **JSON to Table Converter**
