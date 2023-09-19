@@ -26,6 +26,7 @@ As a full-stack developer hands-on experience in developing scalable application
   
 
 </p>
+
 ```txt
 TypeScript       ████████████████████▓▓▓░░   90.76 %
 JavaScript       █████████████████████▓▓░░   90.00 %
