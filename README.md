@@ -27,22 +27,25 @@ As a full-stack developer hands-on experience in developing scalable application
 
 </p>
 
-```txt
-TypeScript       ████████████████████▓▓▓░░   90.76 %
-JavaScript       █████████████████████▓▓░░   90.00 %
-Node.js          ████████████████████▓▓░░░   85.32 %
-Express.Js       ████████████████████▓▓░░░   80.64 %
-Angular          █████████████████████▓▓░░   75.18 %
-Cassandra-DB     █████████████████████▓▓░░   75.18 %
-```
-
 
 ## Experience
+
+<img align="left" width="100" height="100" src="https://github.com/pradeepdurai/pradeepdurai/blob/main/src/Images/qburst_logo.jpeg">
+
 **QBurst Technologies** <br/>
-*Senior Engineer* | Feb-2022 to Present
+*Senior Engineer* | *Feb-2021 to Present* <br/>
+*Full Time - 2Y* 
+<br/><br/>
+
+---
+<img align="left" width="100" height="100" src="https://github.com/pradeepdurai/pradeepdurai/blob/main/src/Images/appiness_interactive.jpeg">
 
 **Appiness Interactive**<br/>
-*Backend Engineer* | Dec-2019 to feb-2021
+*Backend Engineer* | *Dec-2019 to Feb-2021* <br/>
+*Full Time - 2Y*
+
+<br/>
+<br/>
 
 ## Personal Projects
 **JSON to Table Converter**
