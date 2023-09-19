@@ -27,5 +27,13 @@ Angular          █████████████████████
 Cassandra-DB     █████████████████████▓▓░░   75.18 %
 ```
 
+### Certifications
+**Full Stack Development**<br/>
+<img height="250" src="https://github.com/pradeepdurai/pradeepdurai/blob/main/src/Images/certificate.png"><br/>
+
+**SQL**<br/>
+<img height="250" src="https://github.com/pradeepdurai/pradeepdurai/blob/main/src/Images/SQL.png"><br/>
+
+
 
 
