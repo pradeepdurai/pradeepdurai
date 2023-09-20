@@ -36,9 +36,7 @@ As a full-stack developer hands-on experience in developing scalable application
 **QBurst Technologies** <br/>
 *Senior Engineer* | *Feb-2021 to Present* <br/>
 *Full Time - 2Y* 
-<br/><br/>
-
----
+<br/><br/><br/>
 <img align="left" width="100" height="100" src="https://github.com/pradeepdurai/pradeepdurai/blob/main/src/Images/appiness_interactive.jpeg">
 
 **Appiness Interactive**<br/>
